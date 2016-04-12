@@ -1,0 +1,28 @@
+name: voracious
+favicon: null
+layout_spectrum: 0.16251454129815102
+typography_spectrum: 0.22369760693982244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24478615750558674
+  lightness: 0.47188631282188
+  saturation: 0.028611474437639117
+  rhythmicContrast: 0.9722680621780455
+purpose: []
