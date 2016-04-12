@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[voracious]]></title>
+        <description><![CDATA[voracious]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 00:22:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[voracious soul]]></title>
+            <description><![CDATA[<article><h1>voracious soul</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d5f745-0c60-4e1d-bb53-5a0c7ca19932.jpg"></article>]]></description>
+            <link>undefinedvoracious-soul/index.html</link>
+            <guid isPermaLink="false">f606f9d9-ec80-40ab-84b4-a755c7d5be3a</guid>
+            <pubDate>Tue, 12 Apr 2016 00:22:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
